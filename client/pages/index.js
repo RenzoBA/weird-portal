@@ -155,7 +155,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center gap-10 bg-[#DA4453] bg-gradient-to-t from-[#89216B] to-[#DA4453] text-white p-10">
+    <div className="flex flex-col items-center justify-center gap-10 bg-[#DA4453] bg-gradient-to-t from-[#89216B] to-[#DA4453] text-white p-10 min-h-screen">
       <div className="text-center max-w-6xl mx-auto">
         <h2 className="text-4xl sm:text-6xl tracking-widest font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-[#DCE35B] to-[#45B649]">
           WEIRD PORTAL
