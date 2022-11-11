@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { ethers } from "ethers";
-import abi from "../../artifacts/contracts/WeirdPortal.sol/WeirdPortal.json";
+import abi from "../utils/WeirdPortal.json";
 
 import Card from "../components/Card";
 
